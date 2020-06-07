@@ -8,7 +8,7 @@ Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. 
 # What I've Been Doing in Quarantine 
 ### Bullet Journaling:  <br/>
 *I started an Instagram account (@journalsbyclara) where I share my art as well as productivity tips. My page can be found [here](https://www.instagram.com/journalsbyclara) Here is some of my work:*<br/>
-![](junecover.jpg) ![](pic1.jpg) ![](pic2.jpg) ![](pic3.jpg) <br/>
+![](junecover.jpg) ![](pic1.jpg) ![](pic2.jpg) <br/>
 ### Etsy Sticker Shop: <br/>
 *With my strong passion in digital art, I decided to use my skills and start a small business selling stickers on etsy. My shop, Bucket of Stickers, can be found at bucketofstickers.etsy.com. I recently listed a new item of 3 stickers with Black Lives Matter designs, where 100% of net proceeds will be donated to Campaign Zero, a platform aiming to find effective solutions to end police violence. So far, I have raised $400!!*<br/>
 ![](stickerscover.jpg)<br/>
