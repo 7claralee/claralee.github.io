@@ -1,3 +1,3 @@
-# Welcome to my blog
+# About Me
 
-I'm glad you are here. I plan to talk about some of my hobbies and how I'm spending quarantine!
+Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. In my free time, I enjoy playing tennis, the guitar, piano, and drawing! I run an instagram for my bullet journal where I share my art and productivity/lifestyle tips, and recently I opened a small business - an etsy sticker shop!
