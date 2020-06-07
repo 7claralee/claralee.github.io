@@ -2,7 +2,8 @@
 
 Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. In my free time, I enjoy playing tennis, the guitar, piano, and drawing! I run an instagram for my bullet journal where I share my art and productivity/lifestyle tips, and recently I opened a small business - an etsy sticker shop!
 
-![](bioimage.jpg)
+![](bioimage.jpg)<br/>
+------------------------------------------<br/>
 
 # What I've Been Doing in Quarantine 
 ### Bullet Journaling:  <br/>
@@ -12,8 +13,9 @@ Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. 
 *With my strong passion in digital art, I decided to use my skills and start a small business selling stickers on etsy. My shop, Bucket of Stickers, can be found at bucketofstickers.etsy.com. I recently listed a new item of 3 stickers with Black Lives Matter designs, where 100% of net proceeds will be donated to Campaign Zero, a platform aiming to find effective solutions to end police violence. So far, I have raised $400!!*<br/>
 ![](stickerscover.jpg)<br/>
 ### Other hobbies:<br/>
-*playing guitar, tennis, longboarding, and doing digital art*
+*playing guitar, tennis, longboarding, and doing digital art*<br/>
 
+------------------------------------------<br/>
 # Brag Sheet
 ## Girls Varsity Tennis *(2017 - present)*<br/>
  - 3rd singles (2018), 1st & 2nd doubles (2017, 2019)<br/>
