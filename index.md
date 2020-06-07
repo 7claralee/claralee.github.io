@@ -4,10 +4,8 @@ Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. 
 
 ![](bioimage.jpg)
 
-# Social Media & Links
-Instagram: @claraa_lee <br/>
-           @journalsbyclara <br/>
-If you would like to check out my etsy shop, you can click [here](https://www.bucketofstickers.etsy.com) to shop!
+# What I've Been Doing in Quarantine <br/>
+### Bullet Journaling: #### I started an Instagram account (@journalsbyclara) where I share my art as well as productivity tips. Here is some of my work:
 
 # Brag Sheet
 ## Girls Varsity Tennis (2017 - present)<br/>
