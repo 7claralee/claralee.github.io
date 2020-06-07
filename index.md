@@ -14,7 +14,8 @@ If you would like to check out my etsy shop, you can click [here](https://www.bu
  - 3rd singles (2018), 1st & 2nd doubles (2017, 2019)<br/>
  
 ## Clarion School Newspaper (2018 - present)<br/>
- - Assistant Editor in Chief<br/>
+ - Assistant Editor in Chief (2020-2021)<br/>
+ - Entertainment Section Editor (2019-2020)
  
 ## FTC Robotics Team 11697 (2018 - present)<br/>
  - Outreach/Communication Leader<br/>
