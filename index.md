@@ -10,13 +10,13 @@ Instagram: @claraa_lee <br/>
 If you would like to check out my etsy shop, you can click [here](https://www.bucketofstickers.etsy.com) to shop!
 
 # Brag Sheet
-Girls Varsity Tennis (2017 - present)<br/>
-- 3rd singles (2018), 1st & 2nd doubles (2017, 2019)<br/><br/>
-Clarion School Newspaper (2018 - present)<br/>
--Assistant Editor in Chief<br/><br/>
-First Tech Challenge, Robotics Team 11697 (2018 - present)<br/>
--Outreach/Communication Leader<br/>
--Engineering Notebook Leader<br/>
--Championship Winning Alliance at NJ State Championship (2019) & advanced to World Champtionship in Detroit, Michigan<br/>
+## Girls Varsity Tennis (2017 - present)<br/>
+### - 3rd singles (2018), 1st & 2nd doubles (2017, 2019)<br/><br/>
+## Clarion School Newspaper (2018 - present)<br/>
+### -Assistant Editor in Chief<br/><br/>
+## First Tech Challenge, Robotics Team 11697 (2018 - present)<br/>
+### -Outreach/Communication Leader<br/>
+### -Engineering Notebook Leader<br/>
+### -Championship Winning Alliance at NJ State Championship (2019) & advanced to World Champtionship in Detroit, Michigan<br/>
 
 
