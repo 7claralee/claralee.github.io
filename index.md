@@ -6,7 +6,7 @@ Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. 
 
 # What I've Been Doing in Quarantine <br/>
 ### Bullet Journaling:  *I started an Instagram account (@journalsbyclara) where I share my art as well as productivity tips. Here is some of my work:*<br/>
-![](juneresized.jpg) ![](pic1.jpg) ![](pic2.jpg) <br/>
+![](junepic.jpg) ![](pic1.jpg) ![](pic2.jpg) <br/>
 
 # Brag Sheet
 ## Girls Varsity Tennis *(2017 - present)*<br/>
