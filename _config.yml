@@ -3,9 +3,6 @@ author: Clara Lee
 email: clara.tung.lee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A look into my quarantine life <br/>
-  gems:
-- jekyll-avatar
-{% avatar 7claralee %}
 
   Personal IG: @claraa_lee<br/>
   Bullet Journal IG: @journalsbyclara<br/>
@@ -16,4 +13,5 @@ github_username:  7claralee # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "sunrise"
