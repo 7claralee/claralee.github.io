@@ -1,12 +1,13 @@
 title: Clara Lee
 author: Clara Lee
+![](bioimage.jpg)
 email: clara.tung.lee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Email: clara.tung.lee@gmail.com <br/>
   Personal IG: @claraa_lee<br/>
   Bullet Journal IG: @journalsbyclara<br/>
-  Facebook: claraxlee<br/>
-  Github: 7claralee<br/>
+  Facebook: @claraxlee<br/>
+  Github: @7claralee<br/>
   
 instagram_username: claraa_lee
 github_username:  7claralee # DO NOT include the @ character, or else the build will fail!
