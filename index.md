@@ -3,7 +3,7 @@
 Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. In my free time, I enjoy playing tennis, the guitar, piano, and drawing! I run an instagram for my bullet journal where I share my art and productivity/lifestyle tips, and recently I opened a small business - an etsy sticker shop! In the future I plan on majoring in engineering or management & technology.
 
 ![](bioimage.jpg)<br/>
-=========================================================================================================<br/>
+==========================================================================<br/>
 
 # What I've Been Doing in Quarantine 
 ### Bullet Journaling:  <br/>
@@ -15,7 +15,7 @@ Hi! My name is Clara. I'm a junior at East Brunswick High School in New Jersey. 
 ### Other hobbies:<br/>
 *playing guitar, tennis, longboarding, and doing digital art*<br/>
 
-=========================================================================================================<br/>
+==========================================================================<br/>
 # Brag Sheet
 ## Girls Varsity Tennis *(2017 - present)*<br/>
  - 3rd singles (2018), 1st & 2nd doubles (2017, 2019)<br/>
